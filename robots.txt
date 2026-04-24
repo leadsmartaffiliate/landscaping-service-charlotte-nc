@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landscaping-service-charlotte-nc.netlify.app/sitemap.xml
